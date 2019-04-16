@@ -1,0 +1,18 @@
+- name: Food
+  key: 72157707918059705
+- name: Wildlife
+  key: 72157677749421107
+- name: Nature
+  key: 72157633532267229
+# - name: Places
+#   key: 72157633566493386
+# - name: Landscapes
+#   key: 72157633566493386
+# - name: Food
+#   key: 72157707918059705
+# - name: Lights
+#   key: 72157639277651254
+# - name: People
+#   key: 72157635243918659
+# - name: Misc
+#   key: 72157633566493386
